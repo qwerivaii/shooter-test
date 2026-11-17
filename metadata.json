@@ -1,0 +1,6 @@
+{
+  "name": "GALACTIC DEFENDER — Arcade Space Shooter",
+  "description": "Arcade Space Shooter game in a single index.html file with waves, power-ups, boss fights, and synthesized Web Audio sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
